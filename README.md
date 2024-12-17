@@ -1,4 +1,5 @@
 ## Hi there 👋
+Project Manager with a Bachelor’s in Computer Science and pursuing a Master’s degree. Possesses over one year of experience in managing migration projects, conducting research, testing, troubleshooting, and providing IT support. Experienced in developing mobile games using Unity and C#, deploying applications to the Google Play Store, and implementing custom instructions on a MIPS pipelined datapath. Proficient in analyzing performance metrics, automating data collection, and evaluating the energy efficiency of Linux and Windows systems. Familiar with integrating Cloudflare Workers with Grafana and managing project timelines. Collaborative team player committed to delivering reliable software solutions.
 
 <!--
 **nfantinodyer/nfantinodyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
