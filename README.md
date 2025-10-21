@@ -1,6 +1,23 @@
-## Hi there 👋
-Project Manager with a Bachelor’s in Computer Science and pursuing a Master’s degree. Possesses over one year of experience in managing migration projects, conducting research, testing, troubleshooting, and providing IT support. Experienced in developing mobile games using Unity and C#, deploying applications to the Google Play Store, and implementing custom instructions on a MIPS pipelined datapath. Proficient in analyzing performance metrics, automating data collection, and evaluating the energy efficiency of Linux and Windows systems. Familiar with integrating Cloudflare Workers with Grafana and managing project timelines. Collaborative team player committed to delivering reliable software solutions.
+# Nicholas Fantino-Dyer 👋
+   ## Software Developer | MS Computer Science @ Santa Clara
 
+   🎮 Published mobile game developer (Gunslinger - 1000+ downloads)
+   🦀 Systems programmer (OS development in Rust)
+   🤖 ML enthusiast (Award-winning capstone project)
+   🐍 Python automation expert
+
+   ### 🔭 Recent Projects
+   - Building operating system in Rust
+   - AI-powered SQL chatbot
+   - Performance analysis research (Linux vs Windows)
+   - Published mobile game (Unity/C++)
+
+   ### 💻 Tech Stack
+   `Python` `C++` `Rust` `C` `Java` `ASP.NET` `SQL` `Unity`
+
+   ### 📫 Connect
+   [Portfolio](https://nfantinodyer.github.io/portfolioWebsite/) | 
+   [LinkedIn](https://linkedin.com/in/nicholas-fantino-dyer-753868215)
 <!--
 **nfantinodyer/nfantinodyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
