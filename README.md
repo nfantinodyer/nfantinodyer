@@ -2,18 +2,17 @@
    ## Software Developer | MS Computer Science @ Santa Clara
 
    🎮 Published mobile game developer (Gunslinger - 1000+ downloads)
-   🦀 Systems programmer (OS development in Rust)
+   🦀 Systems programmer (Python, C++ developer)
    🤖 ML enthusiast (Award-winning capstone project)
    🐍 Python automation expert
 
    ### 🔭 Recent Projects
-   - Building operating system in Rust
-   - AI-powered SQL chatbot
+   - OpenDrop (Cross platform file sharing tool www.nfdgames.com/OpenDrop/
    - Performance analysis research (Linux vs Windows)
-   - Published mobile game (Unity/C++)
+   - Published Gunslinger mobile game (Unity/C++)
 
    ### 💻 Tech Stack
-   `Python` `C++` `Rust` `C` `Java` `ASP.NET` `SQL` `Unity`
+   `Python` `C++` `Rust` `C` `Java` `ASP.NET` `SQL` `Unity` `JavaScript`
 
    ### 📫 Connect
    [Portfolio](https://nfantinodyer.github.io/portfolioWebsite/) | 
